@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothRemote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="F1">F1</string>
+    <string name="F2">F2</string>
+    <string name="F3">F3</string>
+    <string name="F4">F4</string>
+    <string name="F5">F5</string>
+    <string name="not_connected">NO CONNECTION via bluetooth aviable</string>
+    <string name="connect">conncet</string>
+    <string name="discoverable">Make Discoverable</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Aviable Devices</string>
+    <string name="button_scan">Scan</string>
+    <string name="none_paired">No device has been paired</string>
+    <string name="scanning">Looking for little buddy</string>
+    <string name="select_device">slect a device to connect</string>
+    <string name="none_found">No devices found</string>
+    
+</resources>
